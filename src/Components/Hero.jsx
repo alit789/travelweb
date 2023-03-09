@@ -1,7 +1,7 @@
 const Hero = () => {
     return(
 
-        <h2>Ini HomePage</h2>
+        <h2></h2>
     )
 }
 
