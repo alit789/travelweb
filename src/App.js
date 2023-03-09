@@ -1,14 +1,8 @@
+import Hero from "./Components/Hero";
+
 function App() {
   return (
-    <div className="App">
-      hello
-      <h2>ini gg gaming</h2>
-    </div>
-
-  
-    
-
-
+    <div></div>
   );
 }
 
