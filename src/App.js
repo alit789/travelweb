@@ -1,10 +1,7 @@
+import Hero from "./Components/Hero";
+
 function App() {
-  return (
-    <div className="App mt-2">
-      hello
-      <h2>ini gg gaming</h2>
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
