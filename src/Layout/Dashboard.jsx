@@ -1,9 +1,5 @@
 const Dashboard = () => {
-    return(
+  return <h2>Ini Dashboard</h2>;
+};
 
-        <h2>Ini Dashboard</h2>
-
-    )
-}
-
-export default Dahsboard;
+export default Dashboard;
